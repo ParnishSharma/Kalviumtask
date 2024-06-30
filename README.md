@@ -39,7 +39,7 @@ This script scrapes election results from the Election Commission of India (ECI)
 
 2. Run the script to scrape constituency results:
    ```bash
-   python LOKSABHAELX.py
+   python LOKSABHAELXN.py
    ```
 
    - The script will print the first few rows of scraped data and save it to `constituency_results.csv`.
